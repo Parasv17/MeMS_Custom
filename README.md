@@ -26,15 +26,13 @@ The provided example demonstrates the usage of MeMS functions: allocating memory
 ### Instructions
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/mems.git
+   git clone https://github.com/Parasv17/MeMS_Custom.git
    cd mems
-2. **Build the Project**
+2. **Build And Run**
      ```bash
      make
-3. **Run the example:**
-    ```bash
-     ./
-   
+
+For detailed documentation, refer to the [Documentation](https://docs.google.com/document/d/1Gs9kC3187lLrinvK1SueTc8dHCJ0QP43eRlrCRlXiCY/edit#heading=h.gixz2pyjqud).
 
 
 
